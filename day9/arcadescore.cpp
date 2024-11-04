@@ -109,4 +109,6 @@ int main(){
         }
 
     }while(input != "c");
+    
+    return 0;
 }
